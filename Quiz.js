@@ -24,7 +24,7 @@ class Ouiz{
                 contestantCount = contestantCountRef.val();
                 contestantCountRef.getCount();
             }
-            question = new Ouestion();
+            question = new Question();
             question.display();
         }
     }
